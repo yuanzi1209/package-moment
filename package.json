@@ -1,0 +1,8 @@
+{
+    "name":"package-moment",
+    "version": "1.0.0",
+    "main":"index.js",
+    "description": "A JavaScript date library for formatting dates.",
+    "keywords": ["package","moment","date","format"],
+    "license": "MIT"
+}
